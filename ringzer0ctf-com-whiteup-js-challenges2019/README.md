@@ -13,6 +13,7 @@ Nói qua thì đây biến `u` là username còn `p` là password xem thêm Jque
 
 Kiểm tra điều kiện bởi `if`, mấy bạn nào theo lập trình vào thiết kế web chắc đã quá rõ rồi :3 mình không nói lại nhiều :v
 > var u = 'admin';
+>
 > var p = String.fromCharCode(74,97,118,97,83,99,114,105,112,116,73,115,83,101,99,117,114,101);
 
 Đoạn `p` kia được lấy từ bằng mã ASCII ta thu được `JavaScriptIsSecure` <br/>
