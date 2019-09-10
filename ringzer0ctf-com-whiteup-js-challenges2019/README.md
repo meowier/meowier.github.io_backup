@@ -4,5 +4,7 @@ Thoạt nhìn qua ta thấy có vẻ như phải đăng nhập mới thấy Flag
 ![](https://i.imgur.com/Qb5hsO0.jpg)
 Oke mình đã đăng nhập thử bằng tài khoản của ringzer0ctf nhưng không được, mình đoán mấy level này chắc view-source là thấy. Dòng 89 có đoạn script submit :v <br/>
 ![](https://i.imgur.com/qTDr2LX.jpg)
+Nói qua thì đây biến `u` là username còn `p` là password xem thêm Jquery tại [đây](https://www.w3schools.com/jquery/html_val.asp)
+
 
 
