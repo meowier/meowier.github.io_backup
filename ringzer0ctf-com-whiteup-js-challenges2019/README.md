@@ -55,7 +55,10 @@ Nhìn khá đáng sợ nhỉ :B <br/>
 Ta quan tâm cái username `u` trước nhìn khá đơn giản được encrypt bằng HEX ta thu được `h4x0r` <br/>
 
 Tiếp theo là password `p` thú vị nè :D Cách mã hóa sử dụng AES xem thêm ở [Wiki](https://vi.wikipedia.org/wiki/Advanced_Encryption_Standard)
-Trang này sử dụng CryptoJS, thư viện này mình khá là thành thạo :P xem thêm tại [đây](https://cryptojs.gitbook.io/docs/)
+Trang này sử dụng CryptoJS, thư viện này mình khá là thành thạo :P xem thêm tại [đây](https://cryptojs.gitbook.io/docs/) <br/>
+- Đầu tiên pass được viết bằng hexa ta chuyển qua string `k.toString()` nên chuỗi string sẽ được chia 4 `256 / 4 = 64` :P
+- Sau đó ta cắt chuỗi `substring(0,32)` 32 là 1 nửa của 64
+- Oke code thôi cho nhanh ;)
 
 
 
