@@ -61,7 +61,6 @@ Trang này sử dụng CryptoJS, thư viện này mình khá là thành thạo :
 
 ```
 var encrypted = CryptoJS.AES.encrypt("Message", key, { iv: iv });
-
 ```
 - Khởi tạo Vector, không truyền thanh số `key`
 - Oke code thôi cho nhanh ;)
