@@ -55,6 +55,7 @@ Nhìn khá đáng sợ nhỉ :B <br/>
 Ta quan tâm cái username `u` trước nhìn khá đơn giản được encrypt bằng HEX ta thu được `h4x0r` <br/>
 
 Tiếp theo là password `p` thú vị nè :D Cách mã hóa sử dụng AES xem thêm ở [Wiki](https://vi.wikipedia.org/wiki/Advanced_Encryption_Standard)
+Trang này sử dụng CryptoJS, thư viện này mình khá là thành thạo :P xem thêm tại [đây](https://cryptojs.gitbook.io/docs/)
 
 
 
