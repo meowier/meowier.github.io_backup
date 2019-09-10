@@ -65,7 +65,7 @@ var encrypted = CryptoJS.AES.encrypt("Message", key, { iv: iv });
 - Khởi tạo Vector, không truyền thanh số `key`
 - Oke code thôi cho nhanh ;)
 ![](src/7.jpg) <br/>
-Link code: [https://gist.github.com/meowier/578cc89138009be323876bf63a92ce75](https://gist.github.com/meowier/578cc89138009be323876bf63a92ce75) <br/>
+Link code: [https://gist.github.com/hypnguyen1209/ac7dcd77315b402257562f9aef559f53](https://gist.github.com/hypnguyen1209/ac7dcd77315b402257562f9aef559f53) <br/>
 Submit thôi :v
 
 
