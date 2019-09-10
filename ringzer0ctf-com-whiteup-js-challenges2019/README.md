@@ -22,5 +22,13 @@ Oke submit thôi :v
 
 ## Hashing is more secure ([Challenges 30](https://ringzer0ctf.com/challenges/30))
 
-Oke, ta thấy 1 form submit password, view-source tiếp :&#62;
+Oke, ta thấy 1 form submit password, view-source tiếp :&#62; <br/>
+
+![](https://i.imgur.com/Ysk9bMR.jpg)
+
+Oh, hash password bằng SHA1 `Sha1.hash(p)` đây là cách băm dữ liệu 1 chiều :) bẻ khóa thôi :v [link](https://hashkiller.co.uk/Cracker/SHA1) ta thu được password là `adminz` <br/>
+Submitinggg!
+
+
+
 
