@@ -20,3 +20,7 @@ Kiểm tra điều kiện bởi `if`, mấy bạn nào theo lập trình vào th
 
 Oke submit thôi :v
 
+## Hashing is more secure ([Challenges 30](https://ringzer0ctf.com/challenges/30))
+
+Oke, ta thấy 1 form submit password, view-source tiếp :&#62;
+
