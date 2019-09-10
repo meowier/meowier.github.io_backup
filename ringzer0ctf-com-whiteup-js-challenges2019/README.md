@@ -3,11 +3,11 @@ Oke, heyy đây là lần đầu tiên mình viết whiteup cho bản thân và 
 
 Thoạt nhìn qua ta thấy có vẻ như phải đăng nhập mới thấy Flag thì phải =)))) <br/>
 
-![](https://i.imgur.com/Qb5hsO0.jpg)
+![](src/1.jpg)
 
 Oke mình đã đăng nhập thử bằng tài khoản của ringzer0ctf nhưng không được, mình đoán mấy level này chắc view-source là thấy. Dòng 89 có đoạn script submit :v <br/>
 
-![](https://i.imgur.com/qTDr2LX.jpg)
+![](src/2.jpg)
 
 Nói qua thì đây biến `u` là username còn `p` là password xem thêm Jquery tại [đây](https://www.w3schools.com/jquery/html_val.asp)<br/>
 
@@ -24,7 +24,7 @@ Oke submit thôi :v
 
 Oke, ta thấy 1 form submit password, view-source tiếp :&#62; <br/>
 
-![](https://i.imgur.com/Ysk9bMR.jpg)
+![](src/3.jpg)
 
 Oh, hash password bằng SHA1 `Sha1.hash(p)` đây là cách băm dữ liệu 1 chiều :) bẻ khóa thôi :v [link](https://hashkiller.co.uk/Cracker/SHA1) ta thu được password là `adminz` <br/>
 Submitinggg!
@@ -33,11 +33,11 @@ Submitinggg!
 
 View-source tiếp :v <br/>
 
-![](https://i.imgur.com/ZQOAmpC.jpg)
+![](src/4.jpg)
 
 Oh, Javascript Obfuscate :)) xài Deobfuscator thôi [https://lelinhtinh.github.io/de4js/](https://lelinhtinh.github.io/de4js/) <br/>
 
-![](https://i.imgur.com/2ToJ3Gp.jpg)
+![](src/5.jpg)
 
 Đừng để ý cái tên biến :P kiểm tra điều kiện chỉ là nối chuỗi thôi mà, pass thu được `02l1alk3` <br/>
 
@@ -46,7 +46,7 @@ Submit zooo :v
 ## Most Secure Crypto Algo ([Challenge 67](https://ringzer0ctf.com/challenges/67))
 View-source :3
 
-![](https://i.imgur.com/Oq3SR3D.jpg)
+![](src/6.jpg)
 
 Nhìn khá đáng sợ nhỉ :B <br/>
 
@@ -64,7 +64,7 @@ var encrypted = CryptoJS.AES.encrypt("Message", key, { iv: iv });
 ```
 - Khởi tạo Vector, không truyền thanh số `key`
 - Oke code thôi cho nhanh ;)
-![](https://i.imgur.com/P7JCsBw.jpg)
+![](src/7.jpg)
 Link code: [https://gist.github.com/meowier/578cc89138009be323876bf63a92ce75](https://gist.github.com/meowier/578cc89138009be323876bf63a92ce75) <br/>
 Submit thôi :v
 
