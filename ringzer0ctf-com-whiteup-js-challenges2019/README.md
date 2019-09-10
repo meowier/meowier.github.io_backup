@@ -20,7 +20,7 @@ Kiểm tra điều kiện bởi `if`, mấy bạn nào theo lập trình vào th
 
 Oke submit thôi :v
 
-## Hashing is more secure ([Challenges 30](https://ringzer0ctf.com/challenges/30))
+## Hashing is more secure ([Challenge 30](https://ringzer0ctf.com/challenges/30))
 
 Oke, ta thấy 1 form submit password, view-source tiếp :&#62; <br/>
 
@@ -29,6 +29,19 @@ Oke, ta thấy 1 form submit password, view-source tiếp :&#62; <br/>
 Oh, hash password bằng SHA1 `Sha1.hash(p)` đây là cách băm dữ liệu 1 chiều :) bẻ khóa thôi :v [link](https://hashkiller.co.uk/Cracker/SHA1) ta thu được password là `adminz` <br/>
 Submitinggg!
 
+## Then obfuscation is more secure ([Challenge 31](https://ringzer0ctf.com/challenges/31))
+
+View-source tiếp :v <br/>
+
+![](https://i.imgur.com/ZQOAmpC.jpg)
+
+Oh, Javascript Obfuscate :)) xài Deobfuscator thôi https://lelinhtinh.github.io/de4js/ <br/>
+
+![](https://i.imgur.com/2ToJ3Gp.jpg)
+
+Đừng để ý cái tên biến :P kiểm tra điều kiện chỉ là nối chuỗi thôi mà, pass thu được `02l1alk3` <br/>
+
+Submit zooo :v
 
 
 
