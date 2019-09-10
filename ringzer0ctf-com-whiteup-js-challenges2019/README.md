@@ -35,13 +35,28 @@ View-source tiếp :v <br/>
 
 ![](https://i.imgur.com/ZQOAmpC.jpg)
 
-Oh, Javascript Obfuscate :)) xài Deobfuscator thôi https://lelinhtinh.github.io/de4js/ <br/>
+Oh, Javascript Obfuscate :)) xài Deobfuscator thôi [https://lelinhtinh.github.io/de4js/](https://lelinhtinh.github.io/de4js/) <br/>
 
 ![](https://i.imgur.com/2ToJ3Gp.jpg)
 
 Đừng để ý cái tên biến :P kiểm tra điều kiện chỉ là nối chuỗi thôi mà, pass thu được `02l1alk3` <br/>
 
 Submit zooo :v
+
+## Most Secure Crypto Algo ([Challenge 67](https://ringzer0ctf.com/challenges/67))
+View-source :3
+
+![](https://i.imgur.com/Oq3SR3D.jpg)
+
+Nhìn khá đáng sợ nhỉ :B <br/>
+
+> \x68\x34\x78\x30\x72
+
+Ta quan tâm cái username `u` trước nhìn khá đơn giản được encrypt bằng HEX ta thu được `h4x0r` <br/>
+
+Tiếp theo là password `p` thú vị nè :D Cách mã hóa sử dụng AES xem thêm ở [Wiki](https://vi.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
+
 
 
 
