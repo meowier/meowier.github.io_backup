@@ -50,7 +50,9 @@ View-source :3
 
 Nhìn khá đáng sợ nhỉ :B <br/>
 
-> \x68\x34\x78\x30\x72
+```
+ \x68\x34\x78\x30\x72
+ ```
 
 Ta quan tâm cái username `u` trước nhìn khá đơn giản được encrypt bằng HEX ta thu được `h4x0r` <br/>
 
