@@ -1,10 +1,10 @@
- # [nactf.com] Whiteup Web Exploitation Challenges
+# [nactf.com] Whiteup Web Exploitation Challenges
  
  Oke, mình đã quay trở lại rồi đây =))) mình thấy mấy challages này khá là hay. <br/>
  
  Không dài dòng nữa bắt đầu thôi =))) <br/>
  
- ## Pink Panther 
+## Pink Panther 
  
  I love the Pink Panther! :> bạn có xem phim này không =)))) <br>
  
@@ -14,7 +14,7 @@
  
  flag là: `nactf{1nsp3ct_b3tter_7han_c10us3au}` <br>
  
- ## Scooby Doo 
+## Scooby Doo 
  
  Nhìn thấy các bạn chọn thẻ Game rồi đúng hem :> vào game bạn sẽ thấy bạn sẽ phải click bào cái button 1 triệu cái nó mới hiện flag cho bạn <br>
  
