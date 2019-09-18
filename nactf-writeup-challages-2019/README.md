@@ -22,7 +22,7 @@ Okey flag thu được: `nactf{ult1m4T3_sh4ggY}`
 Link: [http://dexterslab.web.2019.nactf.com/](http://dexterslab.web.2019.nactf.com/) <br>
 Okey đọc solve thấy chúng ta sẽ dùng kiểu tấn công SQL Injection ròi :v <br>
 Câu Query mà chúng ta sẽ dùng là: <br>
->> SELECT * FROM USERS WHERE username = 'admin' AND password = '' or ' x '= ' x <br>
+> SELECT * FROM USERS WHERE username = 'admin' AND password = '' or ' x '= ' x <br>
 
 Thu được CTF ngay: <br>
 ![](src/3.jpg)
@@ -44,7 +44,7 @@ Oke click vào flag ta thấy có vẻ như timestamp của cookie phải lớn 
 document.cookie="session-time=15688137929"
 ```
 Thêm số 9 vào sau là đã lớn hơn rất nhiều rồi =)))) <br>
-Okey 
+Okey <br>
 ![](src/5.jpg)
 Here's your flag: `nactf{c000000000ki3s}`
 
