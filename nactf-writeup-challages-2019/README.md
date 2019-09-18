@@ -6,6 +6,7 @@
  
 ## Pink Panther 
  
+ Link: [http://pinkpanther.web.2019.nactf.com/](http://pinkpanther.web.2019.nactf.com/) <br>
  I love the Pink Panther! :> bạn có xem phim này không =)))) <br>
  
  đọc Solve đã biết chúng ta sẽ phải Inspect rồi đúng không, okey Ctr + U 
@@ -16,6 +17,7 @@
  
 ## Scooby Doo 
  
+ Link: [http://scoobydoo.web.2019.nactf.com/](http://scoobydoo.web.2019.nactf.com/) <br>
  Nhìn thấy các bạn chọn thẻ Game rồi đúng hem :> vào game bạn sẽ thấy bạn sẽ phải click bào cái button 1 triệu cái nó mới hiện flag cho bạn <br>
  
  Mà flag thì lại ở dưới nó chỉ bị làm mờ đi mà thôi, trong css có thuộc tính `opacity` nó là mờ đối tượng, v ta chỉ cần cho nó hiện lên bạn chỉ cần để `opacity` bằng 1 là xong. <br>
