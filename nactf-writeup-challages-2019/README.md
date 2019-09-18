@@ -8,23 +8,25 @@
  
  đọc Solve đã biết chúng ta sẽ phải Inspect rồi đúng không, okey Ctr + U 
  
- ![](src/1.jpg)
+ ![](src/1.jpg) <br>
  
  flag là: `nactf{1nsp3ct_b3tter_7han_c10us3au}` <br>
  
  ## Scooby Doo 
  Nhìn thấy các bạn chọn thẻ Game rồi đúng hem :> vào game bạn sẽ thấy bạn sẽ phải click bào cái button 1 triệu cái nó mới hiện flag cho bạn <br>
  Mà flag thì lại ở dưới nó chỉ bị làm mờ đi mà thôi, trong css có thuộc tính `opacity` nó là mờ đối tượng, v ta chỉ cần cho nó hiện lên bạn chỉ cần để `opacity` bằng 1 là xong. <br>
- ![](src/2.jpg)
+ ![](src/2.jpg) <br>
 Okey flag thu được: `nactf{ult1m4T3_sh4ggY}`
 
 ## Dexter's Lab
 Link: [http://dexterslab.web.2019.nactf.com/](http://dexterslab.web.2019.nactf.com/) <br>
 Okey đọc solve thấy chúng ta sẽ dùng kiểu tấn công SQL Injection ròi :v <br>
 Câu Query mà chúng ta sẽ dùng là: <br>
-> SELECT * FROM USERS WHERE username = 'admin' AND password = '' or ' x '= ' x <br>
+>> SELECT * FROM USERS WHERE username = 'admin' AND password = '' or ' x '= ' x <br>
+
 Thu được CTF ngay: <br>
 ![](src/3.jpg)
+<br>
 Flag: `nactf{1nj3c7ion5_ar3_saf3_in_th3_l4b}`
 
 ## Sesame Street
