@@ -7,8 +7,10 @@ This CTF was solved with [@hypnguyen1209](https://github.com/hypnguyen1209) and 
 ## > > [[ringzer0ctf.com] Whiteup Javascript Challenges](ringzer0ctf-com-whiteup-js-challenges2019)
 <h5>Solved by @hypnguyen1209 09-09-2019</h5> 
 
+## > > [TetCTF 2021 Writeup](tet-ctf-2020)
+<h5>Solved by @hypnguyen1209 06-01-2020</h5>
+
 ## > > [WeCTF 2021 Writeup](we-ctf-2021)
 <h5>Solved by @hypnguyen1209 20-06-2021</h5>
-
 
 
